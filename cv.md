@@ -1,2 +1,5 @@
 Sergey Tertychnyi
-Contacts: lastwhitedance@gmail.com
+
+Contacts: 
+- e-mail: lastwhitedance@gmail.com
+- telegram: @lastwhitedance
