@@ -1,1 +1,2 @@
-# Sergey Tertychnyi
+Sergey Tertychnyi
+Contacts: lastwhitedance@gmail.com
